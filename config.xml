@@ -88,3 +88,5 @@
     <gap:plugin name="cordova-plugin-geolocation" spec="0.3.10"
     	source="npm">
     </gap:plugin></widget>
+    <gap:plugin name="cordova-plugin-geolocation" spec="0.3.10"></gap:plugin></gap:plugin></widget>
+
